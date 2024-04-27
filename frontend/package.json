@@ -4,11 +4,17 @@
   "private": true,
   "type": "module",
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.15",
+    "@scure/base": "^1.1.6",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "typescript": "^4.9.5"
+    "typescript": "^4.9.5",
+    "uuid": "^9.0.1"
   },
   "scripts": {
     "start": "vite",
@@ -17,10 +23,14 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "@types/long": "^5.0.0",
+    "@types/uuid": "^9.0.8",
     "@vitejs/plugin-react-swc": "^3.5.0",
+    "bigint-conversion": "^2.4.3",
     "eslint": "^8.56.0",
     "eslint-config-react-app": "^7.0.1",
     "vite": "^5.0.12",
-    "vite-plugin-eslint": "^1.8.1"
+    "vite-plugin-eslint": "^1.8.1",
+    "vitest": "^1.5.2"
   }
 }
