@@ -7,7 +7,7 @@ The Crush App is a demo of a blockchain-powered recycling program.
 Over the past decades, Michigan's bottle and can recycling program required retailers to accept empty cans and bottles from products that they sold.
 Retailers currently leverage UPC codes to identify their own products.
 Instead, QR codes and a blockchain could be used to uniquely identify each can and bottle and track the status of its deposit.
-This app was created as part of the Kaleido "Developer Challenge" program [README.orig.md]
+This app was originally created as part of the Kaleido.io ["Developer Challenge"](README.orig.md) program.
 
 # Quick start
 
